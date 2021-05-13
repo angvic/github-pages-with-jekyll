@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Test the blog whee"
 ---
 
-I'm glad you are here. I plan to talk about ...
+We're learning and having a great time. I think.
